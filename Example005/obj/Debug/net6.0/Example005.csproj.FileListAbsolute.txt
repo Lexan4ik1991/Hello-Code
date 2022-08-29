@@ -3,3 +3,13 @@ C:\Users\Lexan4ik\Desktop\Examples\Example005\obj\Debug\net6.0\Example005.Genera
 C:\Users\Lexan4ik\Desktop\Examples\Example005\obj\Debug\net6.0\Example005.AssemblyInfoInputs.cache
 C:\Users\Lexan4ik\Desktop\Examples\Example005\obj\Debug\net6.0\Example005.AssemblyInfo.cs
 C:\Users\Lexan4ik\Desktop\Examples\Example005\obj\Debug\net6.0\Example005.csproj.CoreCompileInputs.cache
+C:\Users\Lexan4ik\Desktop\Examples\Example005\bin\Debug\net6.0\Example005.exe
+C:\Users\Lexan4ik\Desktop\Examples\Example005\bin\Debug\net6.0\Example005.deps.json
+C:\Users\Lexan4ik\Desktop\Examples\Example005\bin\Debug\net6.0\Example005.runtimeconfig.json
+C:\Users\Lexan4ik\Desktop\Examples\Example005\bin\Debug\net6.0\Example005.dll
+C:\Users\Lexan4ik\Desktop\Examples\Example005\bin\Debug\net6.0\Example005.pdb
+C:\Users\Lexan4ik\Desktop\Examples\Example005\obj\Debug\net6.0\Example005.dll
+C:\Users\Lexan4ik\Desktop\Examples\Example005\obj\Debug\net6.0\refint\Example005.dll
+C:\Users\Lexan4ik\Desktop\Examples\Example005\obj\Debug\net6.0\Example005.pdb
+C:\Users\Lexan4ik\Desktop\Examples\Example005\obj\Debug\net6.0\Example005.genruntimeconfig.cache
+C:\Users\Lexan4ik\Desktop\Examples\Example005\obj\Debug\net6.0\ref\Example005.dll
