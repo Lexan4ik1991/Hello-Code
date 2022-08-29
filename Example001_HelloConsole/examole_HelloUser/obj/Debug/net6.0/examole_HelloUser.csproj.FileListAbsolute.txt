@@ -1,0 +1,15 @@
+C:\Users\Lexan4ik\Desktop\Examples\Example001_HelloConsole\examole_HelloUser\bin\Debug\net6.0\examole_HelloUser.exe
+C:\Users\Lexan4ik\Desktop\Examples\Example001_HelloConsole\examole_HelloUser\bin\Debug\net6.0\examole_HelloUser.deps.json
+C:\Users\Lexan4ik\Desktop\Examples\Example001_HelloConsole\examole_HelloUser\bin\Debug\net6.0\examole_HelloUser.runtimeconfig.json
+C:\Users\Lexan4ik\Desktop\Examples\Example001_HelloConsole\examole_HelloUser\bin\Debug\net6.0\examole_HelloUser.dll
+C:\Users\Lexan4ik\Desktop\Examples\Example001_HelloConsole\examole_HelloUser\bin\Debug\net6.0\examole_HelloUser.pdb
+C:\Users\Lexan4ik\Desktop\Examples\Example001_HelloConsole\examole_HelloUser\obj\Debug\net6.0\examole_HelloUser.csproj.AssemblyReference.cache
+C:\Users\Lexan4ik\Desktop\Examples\Example001_HelloConsole\examole_HelloUser\obj\Debug\net6.0\examole_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lexan4ik\Desktop\Examples\Example001_HelloConsole\examole_HelloUser\obj\Debug\net6.0\examole_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Lexan4ik\Desktop\Examples\Example001_HelloConsole\examole_HelloUser\obj\Debug\net6.0\examole_HelloUser.AssemblyInfo.cs
+C:\Users\Lexan4ik\Desktop\Examples\Example001_HelloConsole\examole_HelloUser\obj\Debug\net6.0\examole_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Lexan4ik\Desktop\Examples\Example001_HelloConsole\examole_HelloUser\obj\Debug\net6.0\examole_HelloUser.dll
+C:\Users\Lexan4ik\Desktop\Examples\Example001_HelloConsole\examole_HelloUser\obj\Debug\net6.0\refint\examole_HelloUser.dll
+C:\Users\Lexan4ik\Desktop\Examples\Example001_HelloConsole\examole_HelloUser\obj\Debug\net6.0\examole_HelloUser.pdb
+C:\Users\Lexan4ik\Desktop\Examples\Example001_HelloConsole\examole_HelloUser\obj\Debug\net6.0\examole_HelloUser.genruntimeconfig.cache
+C:\Users\Lexan4ik\Desktop\Examples\Example001_HelloConsole\examole_HelloUser\obj\Debug\net6.0\ref\examole_HelloUser.dll
